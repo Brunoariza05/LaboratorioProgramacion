@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("¡Lindo viernes para estar con Visual Studio 2022!");
+        Console.WriteLine("¡Lindo lunes para estar con Visual Studio 2022!");
     }
 }
 
